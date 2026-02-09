@@ -1,4 +1,4 @@
-# Web Pages Using HTML, CSS & JavaScript
+# Static Web Pages Using HTML, CSS & JavaScript
 
 ## 📌 Overview
 This repository contains a collection of web pages created using **HTML**, **CSS**, and **JavaScript**.  
