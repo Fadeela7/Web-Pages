@@ -15,11 +15,11 @@ The main focus of this project is on:
 - **JavaScript** – for basic functionality and interactivity  
 
 ## 📂 Project Structure
-├── index.html
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
+├── index.html<br>
+├── css/<br>
+│ └── style.css<br>
+├── js/<br>
+│ └── script.js<br>
 └── README.md
 
 ## 🎯 Purpose of the Project
@@ -46,6 +46,3 @@ This project is intended for learning and academic purposes.
 
 👩‍💻 Author
 Fadeela
-- Add screenshots section (optional)
-
-Just tell me ✨
