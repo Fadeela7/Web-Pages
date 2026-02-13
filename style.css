@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header1{
+    display: flex;
+}
+
+.header1 img{
+    width: 100px;
+    height: 100px;
+}
+
+.banner{
+    width: 100%;
+}
+
+.banner h1{
+    text-align: center;
+    padding: 13px;
+    background-color: rgb(33, 33, 105);
+    color: white;
+}
+
+.banner h2{
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: red;
+    color: white;
+}
+
+main{
+    display: flex;
+    text-align: center;
+    margin-top: 10px;
+}
+
+main .tarana{
+    border: 20px solid rgb(33, 33, 105);
+    width: 600px;
+    margin-left: 20px;
+}
+
+.tarana h2{
+    color: red;
+    font-size: 40px;
+}
+
+.loginMenu{
+    padding: 30px;
+    width: 500px;
+    font-size: 30px;
+}
+
+main .loginMenu{
+    margin-left: 100px;
+    border: 20px solid rgb(33, 33, 105);
+}
+
+.loginMenu h3{
+    font-size: 40px;
+    color: red;
+}
+
+.loginMenu input{
+    margin-top: 30px;
+    border: 2px solid black;
+    padding: 5px;
+    width: 50%;
+}
+
+#login{
+    padding: 10px;
+    margin: 30px;
+    width: 40%;
+    margin-left: 115px;
+    background-color: rgb(33, 33, 105);
+    color: white;
+}
+
+#login:hover{
+    background-color: rgb(84, 84, 171);
+    cursor: pointer;
+}
+
+footer{
+    display: flex;
+    width: 50%;
+    margin-left: 400px;
+    color: red;
+}
