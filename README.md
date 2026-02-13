@@ -14,14 +14,6 @@ The main focus of this project is on:
 - **CSS3** – for styling and layout  
 - **JavaScript** – for basic functionality and interactivity  
 
-## 📂 Project Structure
-├── index.html<br>
-├── css/<br>
-│ └── style.css<br>
-├── js/<br>
-│ └── script.js<br>
-└── README.md
-
 ## 🎯 Purpose of the Project
 - This project was created as part of a **university assignment**.
 - It helped me understand the basics of front-end development.
